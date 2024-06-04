@@ -1,0 +1,27 @@
+[
+  {
+    "lok1": "Zagreb",
+    "lok2": "Split",
+    "lok3": "Osjek",
+    "lok4": "Rijeka"
+
+  }, 
+  {
+    "lok1": "Vrbik 7",
+    "lok2": "Getaldićeva 11",
+    "lok3": "OsjekZrinjevac 15",
+    "lok4": "Istarska 21"
+  }, 
+  {
+    "lok1": "PON-PET: 9:00-18:00",
+    "lok2": "PON-PET: 9:00-18:00",
+    "lok3": "PON-PET: 9:00-18:00",
+    "lok4": "PON-PET: 9:00-18:00"
+  }, 
+  {
+    "lok1": "SUB:8:00:12:00",
+    "lok2": "SUB:8:00:12:00",
+    "lok3": "SUB:8:00:12:00",
+    "lok4": "SUB:8:00:12:00"
+  }
+]

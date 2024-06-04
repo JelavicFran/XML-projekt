@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "drzava": "Italija",
+    "grad": "Venecija",
+    "hotel": "Hotel Danieli",
+    "datumpolaska": "2024-07-01",
+    "mjestopolaska": "Zračna luka Franjo Tuđman, Zagreb",
+    "trajanje": "7 dana",
+    "cijena": "1000 EUR"
+  },
+  {
+    "id": 2,
+    "drzava": "Francuska",
+    "grad": "Pariz",
+    "hotel": "Hotel Le Meurice",
+    "datumpolaska": "2024-08-15",
+    "mjestopolaska": "Zračna luka Franjo Tuđman, Zagreb",
+    "trajanje": "5 dana",
+    "cijena": "1200 EUR"
+  },
+  {
+    "id": 3,
+    "drzava": "Japan",
+    "grad": "Tokio",
+    "hotel": "Park Hyatt Tokyo",
+    "datumpolaska": "2024-09-10",
+    "mjestopolaska": "Zračna luka Split",
+    "trajanje": "10 dana",
+    "cijena": "2500 EUR"
+  },
+  {
+    "id": 4,
+    "drzava": "SAD",
+    "grad": "New York",
+    "hotel": "The Plaza Hotel",
+    "datumpolaska": "2024-10-05",
+    "mjestopolaska": "Zračna luka Franjo Tuđman, Zagreb",
+    "trajanje": "7 dana",
+    "cijena": "2000 EUR"
+  },
+  {
+    "id": 5,
+    "drzava": "Italija",
+    "grad": "Rim",
+    "hotel": "Hotel Hassler",
+    "datumpolaska": "2024-11-20",
+    "mjestopolaska": "Zračna luka Osijek",
+    "trajanje": "6 dana",
+    "cijena": "1300 EUR"
+  },
+  {
+    "id": 6,
+    "drzava": "Australija",
+    "grad": "Sydney",
+    "hotel": "Shangri-La Hotel Sydney",
+    "datumpolaska": "2024-12-15",
+    "mjestopolaska": "Zračna luka Rijeka",
+    "trajanje": "12 dana",
+    "cijena": "3000 EUR"
+  },
+  {
+    "id": 7,
+    "drzava": "Španjolska",
+    "grad": "Barcelona",
+    "hotel": "Hotel Arts Barcelona",
+    "datumpolaska": "2024-07-05",
+    "mjestopolaska": "Zračna luka Split",
+    "trajanje": "8 dana",
+    "cijena": "1100 EUR"
+  },
+  {
+    "id": 8,
+    "drzava": "Njemačka",
+    "grad": "Berlin",
+    "hotel": "Hotel Adlon Kempinski",
+    "datumpolaska": "2024-08-20",
+    "mjestopolaska": "Zračna luka Franjo Tuđman, Zagreb",
+    "trajanje": "6 dana",
+    "cijena": "900 EUR"
+  },
+  {
+    "id": 9,
+    "drzava": "Brazil",
+    "grad": "Rio de Janeiro",
+    "hotel": "Copacabana Palace",
+    "datumpolaska": "2024-09-25",
+    "mjestopolaska": "Zračna luka Split",
+    "trajanje": "10 dana",
+    "cijena": "2200 EUR"
+  },
+  {
+    "id": 10,
+    "drzava": "Kanada",
+    "grad": "Toronto",
+    "hotel": "Fairmont Royal York",
+    "datumpolaska": "2024-10-10",
+    "mjestopolaska": "Zračna luka Osijek",
+    "trajanje": "7 dana",
+    "cijena": "1500 EUR"
+  },
+  {
+    "id": 11,
+    "drzava": "Grčka",
+    "grad": "Atena",
+    "hotel": "Hotel Grande Bretagne",
+    "datumpolaska": "2024-11-05",
+    "mjestopolaska": "Zračna luka Franjo Tuđman, Zagreb",
+    "trajanje": "5 dana",
+    "cijena": "800 EUR"
+  },
+  {
+    "id": 12,
+    "drzava": "Juzna Afrika",
+    "grad": "Cape Town",
+    "hotel": "One&Only Cape Town",
+    "datumpolaska": "2024-12-20",
+    "mjestopolaska": "Zračna luka Rijeka",
+    "trajanje": "14 dana",
+    "cijena": "3200 EUR"
+  }
+]

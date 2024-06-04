@@ -1,0 +1,137 @@
+body {
+	margin: auto;
+	padding: 0px;
+    font-family: "Oswald", sans-serif;	
+    font-size: 11pt;
+	font-weight: 400;
+    position: relative;
+    color: rgba(2, 33, 33, 1);
+    background: rgba(48, 70, 84, 0.04);
+}
+header{
+margin: 0 auto;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #023535;
+  font-family: "Big Shoulders Display", sans-serif;
+  box-shadow: 0px 3px 0px rgba(2, 33, 33, 1);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgba(246, 247, 248, 1);
+  font-size: 30px;
+  text-align: center;
+  padding: 30px 70px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    color:rgba(213, 138, 90, 0.7);
+  background-color: rgba(2, 33, 33, 0.7);
+}
+
+.active{
+  color:#db8a5a;
+  background-color: rgba(2, 33, 33, 1);
+  font-weight: bold;
+
+}
+main{
+margin: 20px auto;
+max-width: 1250px;
+position: relative;
+margin-bottom: 200px;
+
+}
+
+article{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+
+}
+article h1{
+    font-size: 40px;
+}
+article h2{
+    font-size: 30px;
+}
+article p{
+    font-size: 20px;
+}
+article img{
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    box-shadow: 0px 3px 1px rgba(2, 33, 33, 1);
+
+}
+article table{
+  width: 100%;
+  height: 100%;
+  font-size: 20px;
+  border: 0px;
+  margin:auto;
+}
+
+article td{
+  height: 120px;
+}
+article tr:hover{
+  background-color: rgba(206, 205, 209,0.5);
+}
+
+.gumbi{
+  width: 114px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+button{
+  text-align: center;
+  background: rgba(2, 33, 33, 1);
+  padding: 20px 20px;
+  color: rgba(246, 247, 248, 1);
+  border: 1px solid rgba(2, 33, 33, 1) ;
+  font-size: 15px;
+}
+button a{
+  text-decoration: none;
+  color: rgba(246, 247, 248, 1);
+}
+
+footer{
+background-color: #023535;
+width: 100%;
+height: 150px;
+text-align: center;
+}
+footer h2{
+    padding-top: 70px;
+}
+aside{
+  width: 55%;
+  float: right;
+}
+.lokacije{
+  font-size: 20px;
+  height: 300px;
+  width: 100%;
+
+}
+
+a{
+  text-decoration: none;
+  color:rgba(2, 33, 33, 1);
+}
+
